@@ -7,4 +7,5 @@ Creating a repo through local computer and will push now
 3) git remote -v : shows the connected repos
 4) git pull origin main : pull the repo
 5) git push origin main : push the updated verison
-6) git push -u origin master : sets a upstream which prervents from writing origin master everytime and sets it by default
+6) git push -u origin master : sets a upstream which prevents from writing <origin master> everytime and sets it by default
+7) git branch -M main :
